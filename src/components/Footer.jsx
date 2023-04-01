@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
 
         <div className="w-[200px] text-white mt-10  flex flex-col mb-5">
-          <p className="mb-3 text-md ml-5">Download Apps:</p>
+          <p className="mb-3 text-md ml-5">Download Apps :</p>
           <p className="mb-1 ml-5 text-sm">Google Play Store</p>
           <p className="mb-1 ml-5 text-sm">Apple Store</p>
           <p className="mb-1 ml-5 tex-sm">Direct Link</p>

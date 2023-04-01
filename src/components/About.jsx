@@ -19,7 +19,7 @@ const About = () => {
         </div>
 
         <div className=" flex flex-row flex-wrap ml-20 pt-10 pb-20 ">
-          <div className="text-white w-[200px]  bg-neutral-600 text-center py-5 h-[300px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
+          <div className="text-white w-[200px]  bg-neutral-600 text-center py-5 h-[320px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
             <img
               src="https://st4.depositphotos.com/1441511/20464/i/1600/depositphotos_204648498-stock-photo-woman-designer-working-computer-office.jpg"
               alt=""
@@ -39,7 +39,7 @@ const About = () => {
             </p>
           </div>
 
-          <div className="text-white w-[200px] bg-neutral-600 text-center py-5 h-[300px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
+          <div className="text-white w-[200px] bg-neutral-600 text-center py-5 h-[320px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
             <img
               src="https://media.istockphoto.com/id/1408049646/photo/latin-male-developer-freelancer-office-employee-is-using-laptop-sitting-at-the-desk-oudoors.jpg?b=1&s=170667a&w=0&k=20&c=c7PATt6mjBM54TV1GStUOE8qkijbYKTjjHPJh2IDpvo=
               "
@@ -60,7 +60,7 @@ const About = () => {
             </p>
           </div>
 
-          <div className="text-white w-[200px] bg-neutral-600 text-center py-5 h-[300px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
+          <div className="text-white w-[200px] bg-neutral-600 text-center py-5 h-[320px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
             <img
               src="https://media.istockphoto.com/id/1193290387/photo/portrait-of-young-businessman-standing-in-his-office-with-arms-crossed.jpg?s=170667a&w=0&k=20&c=wL7xkBaoam8CKxVLWvZsAE0TfQ9Y-K_ZumSyD_0NfSg="
               alt=""
@@ -80,7 +80,7 @@ const About = () => {
             </p>
           </div>
 
-          <div className="text-white w-[200px] bg-neutral-600 py-5 h-[300px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
+          <div className="text-white w-[200px] bg-neutral-600 py-5 h-[320px] border border-green-700  border-b-4 border-b-green-500 hover:bg-green-500 ">
             <img
               src="https://media.istockphoto.com/id/1355030282/photo/shot-of-a-mature-businessman-using-a-laptop-in-a-modern-office.jpg?b=1&s=170667a&w=0&k=20&c=7_PVU8BNQPXUd25qhAEcTxg0Fxy5vvq0wu6jvSU9Ke8="
               alt=""
